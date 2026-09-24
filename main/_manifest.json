@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790228113360,
+  "timestamp": 1790228117115,
   "appVersion": "6.9.84 (2026.09.24)",
   "tables": [
     "characters",
@@ -144,6 +144,8 @@
     "xinsheng": true,
     "pomodoroSessions": true,
     "couplesData": true,
+    "stickerStore": true,
+    "quickReplies": true,
     "goingOutState": true,
     "goingOutAreas": true,
     "goingOutLogs": true,
@@ -161,16 +163,7 @@
     "lifeRpgData": true,
     "whiteDogData": true,
     "isekaiSaves": true,
-    "isekaiPresets": true,
-    "pomodoroData": true,
-    "mcpServers": true,
-    "thinkingStore": true,
-    "commitments": true,
-    "characterLifeState": true,
-    "chikanPhoneSkins": true,
-    "healthEntries": true,
-    "healthProfile": true,
-    "homelandState": true
+    "isekaiPresets": true
   },
   "inProgress": true
 }
