@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790228050821,
+  "timestamp": 1790228056507,
   "appVersion": "6.9.84 (2026.09.24)",
   "tables": [
     "characters",
@@ -144,25 +144,7 @@
     "xinsheng": true,
     "pomodoroSessions": true,
     "couplesData": true,
-    "goingOutState": true,
-    "goingOutAreas": true,
-    "goingOutLogs": true,
-    "jiliData": true,
-    "jiliCreators": true,
-    "jiliPosts": true,
-    "jiliDMs": true,
-    "mapRasterCache": true,
-    "shareLinkMeta": true,
-    "customGames": true,
-    "customGameSaves": true,
-    "customWidgetTemplates": true,
-    "customWidgetState": true,
-    "wallpapers": true,
-    "lifeRpgData": true,
-    "whiteDogData": true,
-    "isekaiSaves": true,
-    "isekaiPresets": true,
-    "pomodoroData": true
+    "stickerStore": true
   },
   "inProgress": true
 }
