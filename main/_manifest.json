@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790228125707,
+  "timestamp": 1790228131752,
   "appVersion": "6.9.84 (2026.09.24)",
   "tables": [
     "characters",
@@ -144,6 +144,8 @@
     "xinsheng": true,
     "pomodoroSessions": true,
     "couplesData": true,
+    "stickerStore": true,
+    "quickReplies": true,
     "goingOutState": true,
     "goingOutAreas": true,
     "goingOutLogs": true,
@@ -163,17 +165,9 @@
     "isekaiSaves": true,
     "isekaiPresets": true,
     "pomodoroData": true,
+    "regexRules": true,
     "mcpServers": true,
-    "thinkingStore": true,
-    "commitments": true,
-    "characterLifeState": true,
-    "chikanPhoneSkins": true,
-    "healthEntries": true,
-    "healthProfile": true,
-    "homelandState": true,
-    "fontStore": true,
-    "radioData": true,
-    "novelBooks": true
+    "thinkingStore": true
   },
   "inProgress": true
 }
