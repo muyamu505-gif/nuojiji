@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790228186825,
+  "timestamp": 1790228189671,
   "appVersion": "6.9.84 (2026.09.24)",
   "tables": [
     "characters",
@@ -144,8 +144,6 @@
     "xinsheng": true,
     "pomodoroSessions": true,
     "couplesData": true,
-    "stickerStore": true,
-    "quickReplies": true,
     "goingOutState": true,
     "goingOutAreas": true,
     "goingOutLogs": true,
@@ -165,7 +163,6 @@
     "isekaiSaves": true,
     "isekaiPresets": true,
     "pomodoroData": true,
-    "regexRules": true,
     "mcpServers": true,
     "thinkingStore": true,
     "commitments": true,
@@ -177,11 +174,19 @@
     "fontStore": true,
     "radioData": true,
     "novelBooks": true,
-    "novelChapters": true,
     "novelVolumes": true,
     "coReadBooks": true,
     "coReadChapters": true,
-    "coReadSessions": true
+    "coReadSessions": true,
+    "coReadQuotes": true,
+    "coReadTranslations": true,
+    "studyTalks": true,
+    "studyOutlines": true,
+    "studyQuizzes": true,
+    "studyGoals": true,
+    "studyExams": true,
+    "studyCards": true,
+    "naiVibeCache": true
   },
   "inProgress": true
 }
