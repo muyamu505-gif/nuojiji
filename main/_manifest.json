@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790227471798,
+  "timestamp": 1790227482198,
   "appVersion": "6.9.84 (2026.09.24)",
   "tables": [
     "characters",
@@ -107,5 +107,10 @@
     "charLifePlans",
     "_migration"
   ],
+  "completedTables": {
+    "characters": true,
+    "friendRequests": true,
+    "worldBooks": true
+  },
   "inProgress": true
 }
